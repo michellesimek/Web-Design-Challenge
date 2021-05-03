@@ -1,25 +1,6 @@
-h1 {
-    color: cadetblue;
-}
-
-h2 {
-    text-align: center;
-    color: cadetblue;
-    font-size: 20px;
-}
-
-h3 {
-    color: white;
-    background-color: cadetblue;
-}
-
 h4 {
     color: cadetblue;
     font-weight: bold;
-}
-
-h5 {
-    color: cadetblue;
 }
 
 body {
@@ -50,3 +31,4 @@ a.navbar-brand {
 .navbar {
     padding: inherit;
 }
+
