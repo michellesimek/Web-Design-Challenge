@@ -38,3 +38,12 @@ a.navbar-brand {
     padding: inherit;
 }
 
+th, td {
+    text-align: left;
+    border: black 1em;
+}
+
+li {
+    list-style: none;
+}
+
