@@ -3,6 +3,8 @@
 ## Latitude - Latitude Analysis Dashboard with Attitude
 For this homework assignment, we created a visualization dashboard website using visualizations crated from a previous assignment looking at city weather data using the OpenWeatherMap API. 
 
+GitPages Site: michellesimek.github.io
+
 The website consists of 7 pages total including:
 
 1. Landing Page
